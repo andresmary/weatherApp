@@ -1,0 +1,56 @@
+.card {
+  background-size: cover;
+  border-radius: 4px;
+}
+
+.shadow {
+  background-color: #333333;
+  opacity: 0.85;
+  border-radius: 4px;
+  height: 100%;
+}
+
+.day {
+  font-size: 21px;
+  font-weight: 300;
+  text-transform: capitalize;
+  padding-top: 5px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding-top: 5px;
+}
+
+.temp {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.extra_data {
+  font-size: 14px;
+  font-weight: 300;
+  padding-bottom: 5px;
+}
+
+.newyork {
+  background-image: url('../public/images/new_york.jpg');
+}
+
+.paris {
+  background-image: url('../public/images/paris.jpg');
+}
+
+.londres {
+  background-image: url('../public/images/londres.jpg');
+}
+
+.elcairo {
+  background-image: url('../public/images/el_cairo.jpg');
+}
+
+.sydney {
+  background-image: url('../public/images/sydney.jpg');
+}
